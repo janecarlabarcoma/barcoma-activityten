@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\Belderol\School\Barcoma_Act10\obj\Debug\net6.0\Barcoma_Act10.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Belderol\School\Barcoma_Act10\obj\Debug\net6.0\Barcoma_Act10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Belderol\School\Barcoma_Act10\obj\Debug\net6.0\Barcoma_Act10.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Belderol\School\Barcoma_Act10\obj\Debug\net6.0\Barcoma_Act10.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Belderol\School\Barcoma_Act10\obj\Debug\net6.0\Barcoma_Act10.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Belderol\School\Barcoma_Act10\bin\Debug\net6.0\Barcoma_Act10.exe
+C:\Users\LENOVO\Desktop\Belderol\School\Barcoma_Act10\bin\Debug\net6.0\Barcoma_Act10.deps.json
+C:\Users\LENOVO\Desktop\Belderol\School\Barcoma_Act10\bin\Debug\net6.0\Barcoma_Act10.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Belderol\School\Barcoma_Act10\bin\Debug\net6.0\Barcoma_Act10.dll
+C:\Users\LENOVO\Desktop\Belderol\School\Barcoma_Act10\bin\Debug\net6.0\Barcoma_Act10.pdb
+C:\Users\LENOVO\Desktop\Belderol\School\Barcoma_Act10\obj\Debug\net6.0\Barcoma_Act10.dll
+C:\Users\LENOVO\Desktop\Belderol\School\Barcoma_Act10\obj\Debug\net6.0\refint\Barcoma_Act10.dll
+C:\Users\LENOVO\Desktop\Belderol\School\Barcoma_Act10\obj\Debug\net6.0\Barcoma_Act10.pdb
+C:\Users\LENOVO\Desktop\Belderol\School\Barcoma_Act10\obj\Debug\net6.0\Barcoma_Act10.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Belderol\School\Barcoma_Act10\obj\Debug\net6.0\ref\Barcoma_Act10.dll
